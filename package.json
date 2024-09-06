@@ -1,0 +1,21 @@
+{
+  "name": "ykurt-aerodrome-theme",
+  "displayName": "yKurt-Aerodrome-Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yKurt-Aerodrome-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yKurt-Aerodrome-Theme-color-theme.json"
+      }
+    ]
+  }
+}
